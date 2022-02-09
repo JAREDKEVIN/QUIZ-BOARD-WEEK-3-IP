@@ -41,6 +41,9 @@ Click on the live link.
 * Materialize CSS
 
 
+![QUIZ BOARD FIGMA IMAGE](https://home/moringa/Desktop/projects/'WEEK 3 QUIX BOARD IP'/quizboard.png)
+
+
 ## Authors Info
 
 Slack Profile - [Kevin Kipkemoi](https://moringaclassroom.slack.com/team/U02UL5GBYBA)
