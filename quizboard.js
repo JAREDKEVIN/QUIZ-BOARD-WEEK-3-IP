@@ -8,5 +8,5 @@ function check() {
     if (quiz1=="HYPER TEXT MARKUP LANGUAGE") {A++}
     if (quiz1=="ECMA SCRIPT") {A++}
     if (quiz1=="YES") {A++}
-    
-      document.write(A);
+
+      document.write(A)
