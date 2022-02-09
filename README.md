@@ -41,7 +41,7 @@ Click on the live link.
 * Materialize CSS
 
 
-![QUIZ BOARD FIGMA IMAGE](https://home/moringa/Desktop/projects/'WEEK 3 QUIX BOARD IP'/quizboard.png)
+![QUIZ BOARD FIGMA IMAGE](https://home/moringa/Desktop/projects/WEEK-3-QUIX-BOARD-IP/quizboard.png)
 
 
 ## Authors Info
