@@ -1,6 +1,6 @@
 
 function check() {
-    var A=0;
+    var a=0;
     var q1=document.quizboard.quiz1.value;
     var q2=document.quizboard.quiz2.value;
     var q3=document.quizboard.quiz3.value;
